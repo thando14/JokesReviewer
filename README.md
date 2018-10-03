@@ -1,1 +1,1 @@
-# JokesReviewer
+run db.sql first
